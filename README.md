@@ -38,4 +38,6 @@ The **Superstore** dataset contains various attributes related to sales transact
 - **Discount**: The discount applied to the order, which can affect profitability and sales strategies.
 - **Profit**: The profit made from each sale, essential for evaluating business profitability and product pricing strategies.
 
+## Facts about the store dataset
+
 
