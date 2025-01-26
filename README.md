@@ -1,3 +1,7 @@
+# Project Title
+
+This project is developed by [Mafube Mokone](https://github.com/yourusername) and 
+
 # Super Store Sales Analyses
 
 This project, conducted by Nthabiseng and Mafube, focuses on analyzing the Super Store's data to uncover hidden patterns and generate valuable insights. As a prominent retail establishment, the Super Store holds a wealth of information that can be leveraged to enhance its operations and strategic decision-making.
@@ -40,7 +44,9 @@ The **Superstore** dataset contains various attributes related to sales transact
 
 ---
 
-## Normalizarion
+## Normalizarion 
+- **Mafube Mokone** (@MafubeMokone) 
+
 ![Untitled (1)](https://github.com/user-attachments/assets/ba6626dd-e940-4cbe-af28-223c00b7ab46)
 
 1. **Customers and Orders**:
