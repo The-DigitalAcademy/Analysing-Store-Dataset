@@ -82,7 +82,13 @@ The **Superstore** dataset contains various attributes related to sales transact
 10. **Cities and States (or Countries)**:
    - **Relationship**: One-to-many (one state can have many cities).
    - **Purpose**: This ensures that each city is correctly categorized within its state or country. It aids in organizing city-specific information for logistical purposes like shipping, customer service, or tax calculations.
+11. **Customers and Segments**:
+   - **Relationship**: One-to-one (each customer belongs to exactly one segment).
+   - **Purpose**: Customers are classified into distinct segments based on specific attributes . By grouping customers into segments, businesses can target marketing, sales strategies, and customer service efforts to specific customer types.
 
+12. **Customers and Customer Segments (Bridge Table)**:
+   - **Relationship**: The `customer_segments` table is used to link a customer to a segment. Since a customer belongs to only one segment, this table simplifies the overall design by using a bridge approach while avoiding redundancy.
+   - **Purpose**: This bridge table serves as a clean way to link customers to their segments without repeating customer data in the `segments` table. It simplifies the structure by acting as a reference between customers and segments, providing clear, normalized data.
 ---
 
 ### Summary of Purposes:
