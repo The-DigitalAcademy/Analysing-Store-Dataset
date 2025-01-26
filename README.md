@@ -98,6 +98,7 @@ The **Superstore** dataset contains various attributes related to sales transact
 - **Geographic Structure**: The state, city, and country relationships allow businesses to operate efficiently across different regions, taking into account regional rules, shipping constraints, and customer preferences.
 - **Product and Subcategory**: One subcategory can contain many products, but each product belongs to only one subcategory. This helps in organizing products into smaller groups within broader categories.
 - **Category and Subcategory**: One category can have multiple subcategories, enabling a more granular classification of products. This helps businesses to manage complex product assortments and allows customers to easily navigate a broad range of products
+![Untitled (1)](https://github.com/user-attachments/assets/8f91720c-fc31-409c-a486-46c079cd27db)
 
 ## Facts about the store dataset
 
