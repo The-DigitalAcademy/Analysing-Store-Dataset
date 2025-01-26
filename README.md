@@ -1,6 +1,6 @@
-# Project Title
+# Analysing The Super Store Orders Dataset
 
-This project is developed by [Mafube Mokone](https://github.com/yourusername) and 
+This project is developed by [Mafube Mokone](https://github.com/Mafube) and [Nthabiseng Mathabatha](https://github.com/agnesnthabi)
 
 # Super Store Sales Analyses
 
