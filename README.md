@@ -45,7 +45,7 @@ The **Superstore** dataset contains various attributes related to sales transact
 ---
 
 ## Normalizarion 
-- **Mafube Mokone** (@MafubeMokone) 
+- **Mafube Mokone** (@Mafube Mokone) 
 
 ![Untitled (1)](https://github.com/user-attachments/assets/ba6626dd-e940-4cbe-af28-223c00b7ab46)
 
