@@ -102,12 +102,12 @@ The **Superstore** dataset contains various attributes related to sales transact
 
 ---
 ## Analyzing the dataset
-**1. For Executives, Sales Teams, and Business Intelligence**
-#
-**Sales Performance**
-#
-Which product categories or subcategories generate the highest and lowest sales and profits?
-Are there specific regions or markets where sales consistently outperform others, and why?
-How does the discount percentage correlate with profit margins across different product categories?
+**1. For Executives, Sales Teams, and Business Intelligence.**
+
+**Sales Performance.**
+
+- Which product categories or subcategories generate the highest and lowest sales and profits?
+- Are there specific regions or markets where sales consistently outperform others, and why?
+- How does the discount percentage correlate with profit margins across different product categories?
 
 
