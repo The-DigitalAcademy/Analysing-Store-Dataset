@@ -12,7 +12,7 @@ The primary objective is to identify meaningful trends and actionable insights w
 This project focuses on exploring an extensive sales dataset using advanced analytical tools and methodologies. The goal is to discover valuable insights hidden within the data. Key areas of analysis include examining sales trends, identifying top-performing products, and calculating critical revenue metrics such as total sales and average revenue per order.
 
 Beyond the numbers, these findings will be translated into engaging visualizations, ensuring they effectively communicate insights and drive informed decisions among stakeholders.
-For your GitHub readme, you can introduce the Superstore dataset by explaining the significance of each feature. Here's how you might approach it:
+
 
 ---
 
